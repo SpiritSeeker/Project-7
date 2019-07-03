@@ -1,0 +1,4 @@
+sandbox/vision/face_recog/face_data
+sandbox/vision/face_recog/.ipynb_checkpoints
+*.jpg
+sandbox/vision/UnknownFaces
